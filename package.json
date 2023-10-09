@@ -1,6 +1,6 @@
 {
   "name": "neutrinos-itoolkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "XMLSERVICE wrapper to access to all things IBM i",
   "main": "lib/itoolkit.js",
   "directories": {
